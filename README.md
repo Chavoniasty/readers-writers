@@ -9,7 +9,7 @@ The readers-writers problem is a classic concurrency challenge in computer scien
 ### Installation
 - Clone the repo
 ````bash
-git clone
+git clone https://github.com/Chavoniasty/readers-writers
 ````
 - Build
 ````bash
