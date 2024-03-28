@@ -14,7 +14,7 @@ git clone
 - Build
 ````bash
 cd writers-readers
-g++ -o main  src/main.cpp src/Book.cpp src/Bookshelf.cpp src/Reader.cpp src/Writer.cpp -I include
+g++ -o main src/main.cpp src/Book.cpp src/Bookshelf.cpp src/Reader.cpp src/Writer.cpp -I include
 ````
 - Run
 ```
